@@ -1,4 +1,4 @@
-SolarCity Lead Capture Form
+# SolarCity Lead Capture Form
 
 # To start the application
 
