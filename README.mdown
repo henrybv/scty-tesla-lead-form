@@ -1,6 +1,6 @@
 # SolarCity Lead Capture Form
 
-# To start the application
+### To start the application
 
 1. Install node packages: `npm install`
 2. Start up server and data processes: `npm start` and `mongod`
@@ -78,15 +78,15 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 
 # Other Projects I am particularly proud of
 
-### Hipflix [www.HipFlix.win] (Fully deployed). 
-[github.com/danetomseth/Hipflix] (Project Github)
+### Hipflix [www.HipFlix.win]. (Fully deployed)
+[github.com/danetomseth/Hipflix]. (Project Github)
 
 + Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
 + Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
 
 ### ComicPowWow
-[github.com/henrybv/comic-book] (Project Github)
-[https://www.youtube.com/watch?v=cni-2cEVzt0] (App Demo)
+[github.com/henrybv/comic-book]. (Project Github)
+[https://www.youtube.com/watch?v=cni-2cEVzt0]. (App Demo)
 
 + Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
 + App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS. 
@@ -95,15 +95,16 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 ### Recommendation Engine
 [https://youtu.be/D4nXZMnKW4U] (Tech Talk)
 
-Between 2011 and 2012, recommendations account for 35% of all sales on Amazon. I built a recommendation engine and gave this tech talk about it.
+Between 2011 and 2012, recommendations account for 35% of all sales on Amazon. 
+I built a recommendation engine and gave this tech talk about it.
 
 ### Starwood Product & SPG, how to increase loyalty in international jet-setters
-[http://www.slideshare.net/bvnu/starwood-millennial-branding-and-marketing-study] (Final Deliverable to Global CEO and Marketing, Partnerships, Digital, Mobile & Brand Directors)
+[http://www.slideshare.net/bvnu/starwood-millennial-branding-and-marketing-study]. (Final Deliverable to Global CEO and Marketing, Partnerships, Digital, Mobile & Brand Directors)
 
 As a PM, I led my team at Starwood Hotels to develop a physical & digital sharing 'Closet Concierge' idea for W Hotels in Starwood's emerging markets (China, India, Middle East). It was a lot of fun.
 
 ### Nextdoor Post Card Strategy
-As a member of the Growth team at [https://nextdoor.com/press/20130614/] (NYC Partnerships & Growth), I
+As a member of the Growth team at [https://nextdoor.com/press/20130614/]. (NYC Partnerships & Growth), I
 
 ● Owned launches & growth for 35 Nextdoor neighborhoods (108,500 households), 
 ● Worked across Product, Marketing, Engineering & Analytics to execute Post Card strategy to increase penetration in top U.S. cities,
