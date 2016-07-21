@@ -79,14 +79,14 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 # Other Projects I am particularly proud of
 
 ### Hipflix 
-[Fully Deployed at Hipflix.win] (www.HipFlix.win)
+[Fully Deployed at Hipflix.win] (www.HipFlix.win) |
 [Project Github] (github.com/danetomseth/Hipflix)
 
 + Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
 + Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
 
 ### ComicPowWow
-[Project Github] (github.com/henrybv/comic-book)
+[Project Github] (github.com/henrybv/comic-book) |
 [App Demo] (https://www.youtube.com/watch?v=cni-2cEVzt0)
 
 + Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
@@ -118,13 +118,7 @@ My team achieved 50 launches, grown 187 neighborhoods to achieve critical mass, 
 # Personal Websites and Blogs
 
 [Personal Website] (www.henrybv.co)
-
 [GitHub] (www.github.com/henrybv)
-
 [Travel Blog] (www.henrybvnguyen.com)
-
 [LinkedIn] (www.linkedin.com/in/henrybv)
-
 [Twitter] (www.twitter.com/HBaoViet)
-
-
