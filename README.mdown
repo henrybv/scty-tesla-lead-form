@@ -64,7 +64,7 @@ I strive to make this as close to a production app as possible.
 6. Write tests.
 
 
-### My experience as an Energy Consultant & Solar Ambassador
+# My experience as an Energy Consultant & Solar Ambassador
 
 Referral is a mindset. By mentioning Solar Ambassador program early in Lead Form, this helps ECs build trust w/ customers. In my experience, customers will also more likely refer in the future.
 
@@ -76,13 +76,13 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 
 
 
-### Other Projects I am particularly proud of
+# Other Projects I am particularly proud of
 
-1. Hipflix [www.HipFlix.win] (Fully deployed). 
+* Hipflix [www.HipFlix.win] (Fully deployed). 
 [github.com/danetomseth/Hipflix] (Project Github)
 
-● Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
-● Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
++ Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
++ Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
 
 2. ComicPowWow
 [github.com/henrybv/comic-book] (Project Github)
