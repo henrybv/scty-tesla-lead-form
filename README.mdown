@@ -78,15 +78,16 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 
 # Other Projects I am particularly proud of
 
-### Hipflix [www.HipFlix.win]. (Fully Deployed)
-[Project Github]. (github.com/danetomseth/Hipflix)
+### Hipflix 
+[Fully Deployed at Hipflix.win] (www.HipFlix.win)
+[Project Github] (github.com/danetomseth/Hipflix)
 
 + Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
 + Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
 
 ### ComicPowWow
-[Project Github]. (github.com/henrybv/comic-book)
-[App Demo]. (https://www.youtube.com/watch?v=cni-2cEVzt0)
+[Project Github] (github.com/henrybv/comic-book)
+[App Demo] (https://www.youtube.com/watch?v=cni-2cEVzt0)
 
 + Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
 + App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS. 
