@@ -3,7 +3,7 @@ SolarCity Lead Capture Form
 # To start the application
 
 1. Install node packages: `npm install`
-2. Start up server and data processes: `mongod` and `npm start`
+2. Start up server and data processes: `npm start` and `mongod`
 3. View in browser at http://localhost:1337
 
 Full-stack Application
@@ -14,7 +14,7 @@ The Task was to build a portal or form for potential customers to indicate an in
 I built a Full-stack Application, using MEAN Stack, a framework I have worked with extensively the past year.
 
 
-# Back-end
+### Back-end
 
 1. Express + middleware functions to provide abstract layer on top of NodeJS
 
@@ -25,7 +25,7 @@ Having the same basic data model in my code & database dramatically simplifies t
 Models and Routes are set up accordingly in server/app and db/models.
 
 
-# Front-end
+### Front-end
 
 3. Bootstrap: quick, easy set up, mobile responsive
 
@@ -45,7 +45,7 @@ Many custom CSS stylings here. A visually attractive gallery of images is import
 ng-model allows data-binding to different fields in lead form (leadToSubmit). Upon successful submission, Lead and Form are both reset.
 
 
-# Other technologies
+### Other technologies
 
 7. Chalk, Morgan, Nodemon, serve-favicon, body-parser etc. - 
 
@@ -54,7 +54,7 @@ I strive to make this as close to a production app as possible.
 8. Babel, ES6. Bluebird, because ES 6 is fun and also I believe in clean code (hence promises).
 
 
-# Extra features to add
+### Extra features to add
 
 1. Salesforce integration
 2. Sendgrid email integration (Easy to implement. An email upon successful submission -> Create sense of excitement for customers)
@@ -64,7 +64,7 @@ I strive to make this as close to a production app as possible.
 6. Write tests.
 
 
-# My experience as an Energy Consultant & Solar Ambassador
+### My experience as an Energy Consultant & Solar Ambassador
 
 Referral is a mindset. By mentioning Solar Ambassador program early in Lead Form, this helps ECs build trust w/ customers. In my experience, customers will also more likely refer in the future.
 
@@ -76,7 +76,7 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 
 
 
-# Other Projects I am particularly proud of
+### Other Projects I am particularly proud of
 
 1. Hipflix [www.HipFlix.win] (Fully deployed). 
 [github.com/danetomseth/Hipflix] (Project Github)
@@ -89,8 +89,8 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 [https://www.youtube.com/watch?v=cni-2cEVzt0] (App Demo)
 
 ● Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
-● App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS 
-● Solely responsible for User Profile page, Comic Avatar feature, and creating custom borders & stickers
+● App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS. 
+● Solely responsible for User Profile page, Comic Avatar feature, and creating custom borders & stickers.
 
 3. Recommendation Engine
 [https://youtu.be/D4nXZMnKW4U] (Tech Talk)
@@ -116,9 +116,13 @@ My team achieved 50 launches, grown 187 neighborhoods to achieve critical mass, 
 # Personal Websites and Blogs
 
 [www.henrybv.co] (Personal Website)
+
 [www.github.com/henrybv] (GitHub)
+
 [www.henrybvnguyen.com] (Travel Blog)
+
 [www.linkedin.com/in/henrybv] (LinkedIn)
+
 [www.twitter.com/HBaoViet] (Twitter)
 
 
