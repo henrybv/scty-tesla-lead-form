@@ -1,0 +1,124 @@
+SolarCity Lead Capture Form
+
+# To start the application
+
+1. Install node packages: `npm install`
+2. Start up server and data processes: `mongod` and `npm start`
+3. View in browser at http://localhost:1337
+
+Full-stack Application
+=====================================================
+
+The Task was to build a portal or form for potential customers to indicate an interest in solar energy.
+
+I built a Full-stack Application, using MEAN Stack, a framework I have worked with extensively the past year.
+
+
+# Back-end
+
+1. Express + middleware functions to provide abstract layer on top of NodeJS
+
+2. MongoDB: Database set up that allows me to easily and expressively model user info my application.
+
+Having the same basic data model in my code & database dramatically simplifies the task of application development, and eliminates the layers of complex mapping code otherwise required. MongoDB also makes it easy to evolve the structure of form data over time.
+
+Models and Routes are set up accordingly in server/app and db/models.
+
+
+# Front-end
+
+3. Bootstrap: quick, easy set up, mobile responsive
+
+4. Angular:
+
+Having built many MEAN stack apps for web and mobile, I chose AngularJS.
+Angular's two-way data binding nature is perfect for building our Lead Form. 
+
+User Controller + Factory were created as separate JS files (in browser/js/user) to make code easier to read, scale & maintain in the future.
+
+5. Slideshow Feature: 
+
+Many custom CSS stylings here. A visually attractive gallery of images is important to help customers visualize their home with solar. I included solar home pictures from 6 states.
+
+6. User Lead Form itself: 
+
+ng-model allows data-binding to different fields in lead form (leadToSubmit). Upon successful submission, Lead and Form are both reset.
+
+
+# Other technologies
+
+7. Chalk, Morgan, Nodemon, serve-favicon, body-parser etc. - 
+
+I strive to make this as close to a production app as possible.
+
+8. Babel, ES6. Bluebird, because ES 6 is fun and also I believe in clean code (hence promises).
+
+
+# Extra features to add
+
+1. Salesforce integration
+2. Sendgrid email integration (Easy to implement. An email upon successful submission -> Create sense of excitement for customers)
+3. Near Me map: of neighbors with solar -> Highlight growth rate & create sense of urgency.
+4. Add Referer Model > New referral lead is tied to their Referrer. 
+5. More form validation & helper messages.
+6. Write tests.
+
+
+# My experience as an Energy Consultant & Solar Ambassador
+
+Referral is a mindset. By mentioning Solar Ambassador program early in Lead Form, this helps ECs build trust w/ customers. In my experience, customers will also more likely refer in the future.
+
+I joined SolarCity as an Energy Consultant with an employee referral from Jon Carson, our Sr. Director of Ambassadors. Because of my affinity with the Ambassador team, I also helped lead several local pilot programs, including Solar Open House and Solar Party.
+
+In 2015, I also helped Katie DeWitt and the product team with Dynamo Sales pilot. 
+
+I would like to bring my passion in cleaner, more affordable energy and the user empathy I developed as an energy consultant to my next role in Engineering at SolarCity.
+
+
+
+# Other Projects I am particularly proud of
+
+1. Hipflix [www.HipFlix.win] (Fully deployed). 
+[github.com/danetomseth/Hipflix] (Project Github)
+
+● Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
+● Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
+
+2. ComicPowWow
+[github.com/henrybv/comic-book] (Project Github)
+[https://www.youtube.com/watch?v=cni-2cEVzt0] (App Demo)
+
+● Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
+● App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS 
+● Solely responsible for User Profile page, Comic Avatar feature, and creating custom borders & stickers
+
+3. Recommendation Engine
+[https://youtu.be/D4nXZMnKW4U] (Tech Talk)
+
+Between 2011 and 2012, recommendations account for 35% of all sales on Amazon. I built a recommendation engine and gave this tech talk about it.
+
+4. Starwood Product & SPG, how to increase loyalty in international jet-setters
+[http://www.slideshare.net/bvnu/starwood-millennial-branding-and-marketing-study] (Final Deliverable to Global CEO and Marketing, Partnerships, Digital, Mobile & Brand Directors)
+
+As a PM, I led my team at Starwood Hotels to develop a physical & digital sharing 'Closet Concierge' idea for W Hotels in Starwood's emerging markets (China, India, Middle East). It was a lot of fun.
+
+5. Nextdoor Post Card Strategy
+As a member of the Growth team at [https://nextdoor.com/press/20130614/] (NYC Partnerships & Growth), I
+
+● Owned launches & growth for 35 Nextdoor neighborhoods (108,500 households), 
+● Worked across Product, Marketing, Engineering & Analytics to execute Post Card strategy to increase penetration in top U.S. cities,
+● Set up eCommerce partnership w/ Uber
+
+My team achieved 50 launches, grown 187 neighborhoods to achieve critical mass, or 65% of turf (from 2%), a 3,300%/ 33X increase.
+
+
+
+# Personal Websites and Blogs
+
+[www.henrybv.co] (Personal Website)
+[www.github.com/henrybv] (GitHub)
+[www.henrybvnguyen.com] (Travel Blog)
+[www.linkedin.com/in/henrybv] (LinkedIn)
+[www.twitter.com/HBaoViet] (Twitter)
+
+
