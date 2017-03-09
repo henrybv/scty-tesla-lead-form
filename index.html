@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <base href="/">
+  <title>Upgrade to solar roof with SolarCity</title>
+    <!-- CSS -->
+    <link href="/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link href="/w3.css" rel="stylesheet"/>
+    <link href="/style.css" rel="stylesheet"/> <!-- custom CSS -->
+    <!-- JS -->
+    <script src="/angular/angular.js" defer></script>
+    <script src="/angular-ui-router/release/angular-ui-router.js" defer></script>
+    <script src="/angular-messages/angular-messages.js" defer></script>
+    <script src="/js/module.js" defer></script>
+    <script src="/js/user/user.controller.js" defer></script>
+    <script src="/js/user/user.factory.js" defer></script>
+</head>
+
+<!-- apply angular app and controller to our body -->
+<body ng-app="mainApp" ng-controller="userCtrl">
+  <!-- Image gallery solar homes 6 states -->
+  <div class="container">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <div class="w3-content w3-display-container">
+      <div><img id="headerLogo" src="scty-logo.png"></div>
+        <img class="mySlides" src="CA.jpeg" alt="Solar Home in California">
+        <img class="mySlides" src="MD.jpeg" alt="Solar Home in Maryland">
+        <img class="mySlides" src="AZ.jpeg" alt="Solar Home in Arizona">
+        <img class="mySlides" src="HI.jpeg" alt="Solar Home in Hawaii">
+        <img class="mySlides" src="OR.jpeg" alt="Solar Home in Oregon">
+        <img class="mySlides" src="NY.jpeg" alt="Solar Home in New York">
+        <div id="slideShow" class="w3-center w3-section w3-large w3-text-white w3-display-bottomleft">
+          <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+          <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)"></span>
+          <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)"></span>
+        </div>
+    </div> 
+    <script src="js/slideshow.js"></script>
+  </div>
+
+  <div class="container">
+    <div class="col-lg-8 col-lg-offset-2">
+        <div class="page-header"><h3>Upgrade your home to solar, <em>on us.</em></h3></div>
+        <div>
+          SolarCity can install a solar power system on your home for free and sell you the energy it produces for less than you currently pay. This is your chance to save for years to come.<br><br>
+          <div class="list">
+            <ul>All repairs covered at no added cost</ul>
+            <ul>Dedicated customer care</ul>
+            <ul>Best in class <a href="http://www.solarcity.com/residential/how-solar-roof-panels-look">technology</a></ul>
+            <ul>Your first month of solar energy is on SolarCity.*</ul><br>
+          </div>
+        </div>
+
+   <!-- Lead Form -->
+      <div class="well">
+        <form name="userForm" class="form-horizontal"> 
+          <legend>Get a free quote today.</legend>
+
+          <div class="form-group">
+            <label class="col-sm-2 control-label">First Name</label>
+            <div class="col-sm-10">
+              <input name="firstName" ng-model="newLead.firstName" placeholder="John" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="lastName" class="col-sm-2 control-label">Last Name</label>
+            <div class="col-sm-10">
+              <input name="name" ng-model="newLead.lastName" type="text" placeholder="Doe" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="email" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" name="email" placeholder="john@example.com" class="form-control" ng-model="newLead.email" required>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="address" class="col-sm-2 control-label">Address</label>
+            <div class="col-sm-10">
+              <input name="address" ng-model="newLead.address" placeholder="Street, City or Town, State, Zip code" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="phone" class="col-sm-2 control-label">Phone</label>
+            <div class="col-sm-10">
+              <input name="phone" ng-model="newLead.phone" placeholder="123-456-7890" type="text" class="form-control" required/>
+            </div>
+          </div>
+
+           <div class="form-group">
+            <label for="reason" class="col-sm-2 control-label">Primary reason</label>
+            <div class="col-sm-10">
+              <select name="reason" ng-model="newLead.reason">
+                <option ng-repeat="option in availableOptions" value="{{option.id}}" required>{{option.name}}</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="other" class="col-sm-2 control-label">Other/ Questions</label>
+            <div class="col-sm-10">
+              <input name="other" ng-model="newLead.other" type="text" class="form-control" placeholder="Other reasons/ questions. Anything else we should know">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="referrer" class="col-sm-2 control-label">Referrer's email*</label>
+            <div class="col-sm-10">
+              <input name="referrer" ng-model="newLead.referrer" placeholder="Did a SolarCity customer or Ambassador* refer you?" type="email" class="form-control"/>
+            </div>
+          </div>
+     
+        <p id="submitMessage" ng-show="submitted && !userForm.name.$pristine">Success! We will be in touch shortly.</p>
+
+
+        <div class="form-group">
+          <div class="col-xs-10 col-xs-offset-2">
+            <button name="freeQuoteBtn" type="submit" ng-click="submitLead(newLead)" ng-disabled="userForm.$invalid" class="btn btn-success">Get Free Quote</button>
+          </div>
+        </div>
+
+        </form>
+    </div>
+    <!-- Lead Form ends -->
+
+    <!-- Link to Solar Ambassador program -->
+    <div class="subtext">* Homeowners referred by a Solar Ambassador get their first month of solar on us. Solar Ambassadors get a referral award sent to them or a charity of their choice. <a href="https://mysolarcity.com/Ambassador/register">Click here to learn more about our Solar Ambassador program.</a><br>
+    </div>
+  
+    <!-- SolarCity Founders' Vision video -->
+    <div class="page-header"><h3>Our Founders' vision.</em></h3></div>
+    <div class="videoWrapper">
+      <iframe src="//player.vimeo.com/video/56647312" width="560" height="349" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+    <br>
+
+    <!-- Footer -->
+    <div class="page-footer">SolarCity | Tesla Energy</div>
+
+</body>
+
+</html>
