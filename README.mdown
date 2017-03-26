@@ -79,32 +79,32 @@ I would like to bring my passion in cleaner, more affordable energy and the user
 # Other Projects I am particularly proud of
 
 ### ComicPowWow
-[App Demo] (https://www.youtube.com/watch?v=cni-2cEVzt0) |
-[Project Github] (github.com/henrybv/comic-book)
+[App Demo](https://www.youtube.com/watch?v=cni-2cEVzt0) |
+[Project Github](github.com/henrybv/comic-book)
 
 + Developed mobile app that allows users to create comic books with friends in real-time, using camera phone or photo library.
 + App built using MEAN stack, Ionic, Canvas, Firebase, HammerJS and CamanJS. 
 + Solely responsible for User Profile page, Comic Avatar feature, and creating custom borders & stickers.
 
 ### Hipflix 
-[Project Github] (github.com/danetomseth/Hipflix)
+[Project Github](github.com/danetomseth/Hipflix)
 
 + Developed retro subscription-based VHS eCommerce store built with MEAN stack & Twitter Bootstrap
 + Responsible for User Reviews page, movie trailers, integrating SendGrid and Stripe third-party APIs
 
 ### Recommendation Engine
-[Link to recorded Tech Talk] (https://youtu.be/D4nXZMnKW4U)
+[Link to recorded Tech Talk](https://youtu.be/D4nXZMnKW4U)
 
 Between 2011 and 2012, recommendations account for 35% of all sales on Amazon. 
 I built a recommendation engine and gave this tech talk about it.
 
 ### Starwood Product & SPG, how to increase loyalty in international jet-setters
-[Final Deliverable to Global CEO and Marketing, Partnerships, Digital, Mobile & Brand Directors] (http://www.slideshare.net/bvnu/starwood-millennial-branding-and-marketing-study)
+[Final Deliverable to Global CEO and Marketing, Partnerships, Digital, Mobile & Brand Directors](http://www.slideshare.net/bvnu/starwood-millennial-branding-and-marketing-study)
 
 As a PM, I led my team at Starwood Hotels to develop a physical & digital sharing 'Closet Concierge' idea for W Hotels in Starwood's emerging markets (China, India, Middle East). It was a lot of fun.
 
 ### Nextdoor Post Card Strategy
-As a member of the Growth team at [NYC Partnerships & Growth] (https://nextdoor.com/press/20130614/), I
+As a member of the Growth team at [NYC Partnerships & Growth](https://nextdoor.com/press/20130614/), I
 
 ● Owned launches & growth for 35 Nextdoor neighborhoods (108,500 households), 
 ● Worked across Product, Marketing, Engineering & Analytics to execute Post Card strategy to increase penetration in top U.S. cities,
@@ -116,12 +116,12 @@ My team achieved 50 launches, grown 187 neighborhoods to achieve critical mass, 
 
 # Personal Websites and Blogs
 
-[Personal Website] (www.henrybv.co)
+[Personal Website](www.henrybv.co)
 
-[GitHub] (www.github.com/henrybv)
+[GitHub](www.github.com/henrybv)
 
-[Travel Blog] (www.henrybvnguyen.com)
+[Travel Blog](www.henrybvnguyen.com)
 
-[LinkedIn] (www.linkedin.com/in/henrybv)
+[LinkedIn](www.linkedin.com/in/henrybv)
 
-[Twitter] (www.twitter.com/HBaoViet)
+[Twitter](www.twitter.com/HBaoViet)
