@@ -59,7 +59,7 @@ I strive to make this as close to a production app as possible.
 1. Salesforce integration
 2. Sendgrid email integration (Easy to implement. An email upon successful submission -> Create sense of excitement for customers)
 3. Near Me map: of neighbors with solar -> Highlight growth rate & create sense of urgency.
-4. Add Referer Model > New referral lead is tied to their Referrer. 
+4. Add Referrer Model > New referral lead is tied to their Referrer. 
 5. More form validation & helper messages.
 6. Write tests.
 
