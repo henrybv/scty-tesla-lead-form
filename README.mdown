@@ -9,9 +9,9 @@
 Full-stack Application
 =====================================================
 
-The Task was to build a portal or form for potential customers to indicate an interest in solar energy.
+Sample portal or form for potential customers to indicate an interest in solar energy.
 
-I built a Full-stack Application, using MEAN Stack, a framework I have worked with extensively the past year.
+I built a Full-stack Application, using MEAN Stack (MongoDB, Express, Angular, Node.js), a framework I have worked with extensively the past year.
 
 
 ### Back-end
@@ -68,12 +68,12 @@ I strive to make this as close to a production app as possible.
 
 Referral is a mindset. By mentioning Solar Ambassador program early in Lead Form, this helps ECs build trust w/ customers. In my experience, customers will also more likely refer in the future.
 
-I joined SolarCity with an employee referral from Jon Carson, our Sr. Director of Ambassadors. Because of my affinity with the Ambassador team, I also helped lead several local pilot programs, including Solar Open House and Solar Party.
+I joined SolarCity with an employee referral from Jon Carson, formerly of the White House, and our Sr. Director of Ambassadors. Because of my affinity with the Ambassador team, I also helped lead several local pilot programs, including Solar Open House and Solar Party.
 
 In 2015, I also helped Katie DeWitt and the product team with Dynamo Sales pilot. 
 
 
-# Related projects
+# Related projects & reference materials
 
 ### ComicPowWow
 [App Demo](https://www.youtube.com/watch?v=cni-2cEVzt0) |
