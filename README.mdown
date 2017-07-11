@@ -9,7 +9,7 @@
 Full-stack Application
 =====================================================
 
-Sample portal or form for potential customers to indicate an interest in solar energy.
+Sample landing page/ lead form for potential customers to indicate interest in solar energy.
 
 I built a Full-stack Application, using MEAN Stack (MongoDB, Express, Angular, Node.js), a framework I have worked with extensively the past year.
 
