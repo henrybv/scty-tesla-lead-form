@@ -1,9 +1,9 @@
 > ## Note: 
 This is a sample Landing Page / Referral Marketing portal for SolarCity Ambassadors to have their friends, neighbors, coworkers, etc. indicate an interest in solar energy. I had the opportunity to work with [Jon Carson](https://obamawhitehouse.archives.gov/blog/author/jon-carson), formerly of the White House, on our [Ambassador Marketing program](https://seekingalpha.com/article/3322025-solarcitys-solar-ambassador-program-is-exploding), now at 150,000+ Ambassadors strong.
 
->> ###[GO HERE](http://share.solarcity.com/henrybv) 
-to see the most current iteration of the Landing Page/ Ambassador portal (built with Angular/ React, Node, Express, JavaScript, MongoDB)
+:point_right: :point_right: :point_right: [GO HERE](http://share.solarcity.com/henrybv) to see the most current iteration of the Landing Page/ Ambassador portal (built with Angular/ React, Node, Express, JavaScript, MongoDB)
 
+Reach out at hbn2018@icloud.com or [tweet](twitter.com/HBaoViet) me if you have any questions or if you've found this helpful :grinning:
 
 --------------------------
 
